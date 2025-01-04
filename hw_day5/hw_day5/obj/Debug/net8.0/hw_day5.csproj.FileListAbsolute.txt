@@ -1,0 +1,14 @@
+/Users/el/RiderProjects/hw_day5/hw_day5/bin/Debug/net8.0/hw_day5
+/Users/el/RiderProjects/hw_day5/hw_day5/bin/Debug/net8.0/hw_day5.deps.json
+/Users/el/RiderProjects/hw_day5/hw_day5/bin/Debug/net8.0/hw_day5.runtimeconfig.json
+/Users/el/RiderProjects/hw_day5/hw_day5/bin/Debug/net8.0/hw_day5.dll
+/Users/el/RiderProjects/hw_day5/hw_day5/bin/Debug/net8.0/hw_day5.pdb
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/hw_day5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/hw_day5.AssemblyInfoInputs.cache
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/hw_day5.AssemblyInfo.cs
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/hw_day5.csproj.CoreCompileInputs.cache
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/hw_day5.dll
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/refint/hw_day5.dll
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/hw_day5.pdb
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/hw_day5.genruntimeconfig.cache
+/Users/el/RiderProjects/hw_day5/hw_day5/obj/Debug/net8.0/ref/hw_day5.dll
