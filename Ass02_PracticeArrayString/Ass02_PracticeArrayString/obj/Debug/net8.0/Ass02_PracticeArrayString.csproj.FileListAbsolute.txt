@@ -1,0 +1,14 @@
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/bin/Debug/net8.0/Ass02_PracticeArrayString
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/bin/Debug/net8.0/Ass02_PracticeArrayString.deps.json
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/bin/Debug/net8.0/Ass02_PracticeArrayString.runtimeconfig.json
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/bin/Debug/net8.0/Ass02_PracticeArrayString.dll
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/bin/Debug/net8.0/Ass02_PracticeArrayString.pdb
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/Ass02_PracticeArrayString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/Ass02_PracticeArrayString.AssemblyInfoInputs.cache
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/Ass02_PracticeArrayString.AssemblyInfo.cs
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/Ass02_PracticeArrayString.csproj.CoreCompileInputs.cache
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/Ass02_PracticeArrayString.dll
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/refint/Ass02_PracticeArrayString.dll
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/Ass02_PracticeArrayString.pdb
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/Ass02_PracticeArrayString.genruntimeconfig.cache
+/Users/el/RiderProjects/Ass02_PracticeArrayString/Ass02_PracticeArrayString/obj/Debug/net8.0/ref/Ass02_PracticeArrayString.dll

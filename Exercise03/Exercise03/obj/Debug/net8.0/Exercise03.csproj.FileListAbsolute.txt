@@ -1,0 +1,14 @@
+/Users/el/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03
+/Users/el/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.deps.json
+/Users/el/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.runtimeconfig.json
+/Users/el/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.dll
+/Users/el/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.pdb
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfoInputs.cache
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfo.cs
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.dll
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/refint/Exercise03.dll
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.pdb
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.genruntimeconfig.cache
+/Users/el/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/ref/Exercise03.dll

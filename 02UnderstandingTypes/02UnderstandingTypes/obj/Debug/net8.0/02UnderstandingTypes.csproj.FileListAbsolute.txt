@@ -1,0 +1,14 @@
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.deps.json
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.runtimeconfig.json
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.dll
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.dll
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/refint/02UnderstandingTypes.dll
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/el/RiderProjects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/ref/02UnderstandingTypes.dll
